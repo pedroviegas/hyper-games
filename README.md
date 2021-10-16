@@ -1,0 +1,2 @@
+# hyper-games
+sually game apps are comes with only one game. But, this game app contains with lots of games which is really powerful and smooth gaming experience. This application have some special features, It’s stores all game data on device with very less. the total app size is less than 7.5 Mb for android. Currently it contains more than 50 Games. You don’t need to update games everytime. We take care of it. Just integrate your Admob and start your earning. It is a best platform to earn Admob credits. It supports both Android and iOS
